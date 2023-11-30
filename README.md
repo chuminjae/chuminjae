@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chuminjae&show_icons=true&locale=en&layout=compact" alt="chuminjae" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chuminjae&show_icons=true&locale=en" alt="chuminjae" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chuminjae&" alt="chuminjae" /></p>
