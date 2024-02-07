@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chuminjae</h1>
+<h1 align="center">떡랖🕶️</h1>
 <h3 align="center">A passionate student from Korea.</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Razer-Green?style=for-the-badge&logo=Razer&logoColor=00FF00"/>
